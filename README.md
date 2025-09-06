@@ -1,44 +1,71 @@
-# vCard - Personal portfolio
+# Roya Ghavami Adel — Portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+Welcome to my personal portfolio website! This site showcases my background, skills, professional projects, university projects, and contact information. It highlights my preparation for pursuing a Master’s or PhD program in Software Engineering, Cybersecurity, or related fields.  
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+---
 
-## Demo
+## About Me
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+I am a Software Engineer with a Bachelor of Science degree in Computer Engineering from Sharif University of Technology. My experience spans software development, backend systems, application integration, and network security.
 
-## Prerequisites
+I am passionate about designing scalable, secure, and high-performance software systems. I am seeking a Master's/PhD degree to deepen my knowledge, leverage international resources, and contribute to solving complex software engineering challenges.
 
-Before you begin, ensure you have met the following requirements:
+---
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+## Portfolio
 
-## Installing vCard
+### Professional Projects
 
-To install **vCard**, follow these steps:
+**TapsiFood — Vendor Panel**  
+A full-featured order management platform for food vendors.  
+- Built scalable UI with Vue 3 and Vue Query.  
+- Integrated with backend services using NestJS, RabbitMQ, gRPC, and Redis.  
+- Optimized SSG, SSR, and CSR rendering for performance.  
 
-Linux and macOS:
+**Jabama — Backoffice System**  
+Internal platform to manage accommodations and hosts.  
+- Developed core modules for contract management, reservations, and user dashboards.  
+- Built real-time chat system for customer support.  
+- Technologies: Vue.js, TypeScript, Tailwind CSS, REST APIs.  
 
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+### University Projects
 
-Windows:
+**Articles Search Engine** — [GitHub](https://github.com/royaghavami/articles-search-engine)  
+- Designed a search engine using Elasticsearch, Boolean retrieval, and TF-IDF scoring.  
+- Integrated semantic search with Transformer models (BERT) and embeddings.  
+- Implemented fuzziness, logical filters, and clustering with cosine similarity.  
 
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+**CBDC Wallet** — [GitHub](https://github.com/royaghavami/opencbdc-ui)  
+- Built a secure digital wallet interface for Central Bank Digital Currency systems.  
+- Implemented token minting, key generation, authorization, and passphrase recovery.  
+- Proposed secure and scalable improvements for digital currency.  
+
+**C-Minus Compiler** — [GitHub](https://github.com/royaghavami/C-minus-Compiler)  
+- Implemented a compiler for the C-Minus programming language in Python.  
+- Translated C- code into executable machine code as a learning tool.  
+
+---
+
+## Skills
+
+- **Frontend:** Vue.js, React, TypeScript, Tailwind CSS  
+- **Backend:** Node.js, NestJS, REST APIs, RabbitMQ, gRPC, Redis  
+- **Tools & DevOps:** Docker, Docker Compose  
+- **Programming & Algorithms:** Data Structures, Distributed Systems, Security  
+
+---
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_).
+- **Email:** [royaghavamiadel@gmail.com](mailto:royaghavamiadel@gmail.com)  
+- **Phone:** +98 936 017 6192  
+- **LinkedIn:** [linkedin.com/in/royaghavamiadel](https://www.linkedin.com/in/roya-ghavami-adel)  
 
-## License
+---
 
-MIT
+## Usage
+
+1. Clone this repository:  
+
+```bash
+git clone https://github.com/royaghavami/portfolio.git
