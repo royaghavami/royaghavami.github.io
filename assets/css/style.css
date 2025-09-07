@@ -506,6 +506,22 @@ main {
 
 .about-text p { margin-bottom: 15px; }
 
+.about-text strong {
+    color: #908252; /* highlight keywords like Thesis */
+  font-weight: var(--fw-500);
+}
+
+
+.project-description {
+  margin: 1rem 0;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: var(--text-color, #e4e4e7); /* fallback light gray if no theme vars */
+  background: rgba(255, 255, 255, 0.02);
+  padding: 0.75rem 1rem;
+  border-left: 3px solid var(--accent-color, #d4a200);
+  border-radius: 6px;
+}
 
 
 /**
@@ -824,9 +840,13 @@ main {
 }
 
 .timeline-text {
-  color: var(--light-gray);
+  color: var(--light-gray-70);
   font-weight: var(--fw-300);
   line-height: 1.6;
+}
+
+.timeline-text strong{
+  color: var(--white-1);
 }
 
 /* Sublist inside timeline (like thesis, project details, etc.) */
